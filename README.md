@@ -1,4 +1,7 @@
 ### Hi there 👋
+Name - P.A.V.Vihanga
+Student ID - IT21039836
+Group 01.1
 
 <!--
 **it21039836Vihanga/it21039836Vihanga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
